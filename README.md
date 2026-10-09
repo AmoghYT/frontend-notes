@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Front-End Web Developer Notes
 
 A responsive single-page website that explains the units of the course **FrontEnd Web Developer: Modern HTML JavaScript**. It is built with plain HTML, CSS and JavaScript, with no frameworks and no build step.
@@ -121,3 +122,6 @@ Works in the current versions of Chrome, Edge, Firefox and Safari.
 ## Licence
 
 Made for learning as part of a college course. Feel free to reuse and modify it.
+=======
+
+>>>>>>> 775cd2697e13bc751b61ccc1f1f97f9a7b65e972
